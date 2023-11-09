@@ -268,8 +268,7 @@ section#family {
   }
   footer {
     min-height: 15vh; 
-    justify-content: start;
-    padding-top: 10px;
+    justify-content: center;
   }
   footer p {
     padding-top: 10px;
