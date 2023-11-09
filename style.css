@@ -81,7 +81,7 @@ section#welcome {
   margin-bottom: 10px;
 }
 .more-info{
-  text-decoration: underline
+  text-decoration: underline dashed 1px rgb(159, 151, 151);
 }
 
 /*FOOTER STYLYING*/
